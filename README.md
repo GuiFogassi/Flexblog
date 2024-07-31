@@ -31,6 +31,3 @@ O Flexblog é um projeto de estudo destinado a demonstrar a aplicação de Flexb
 3. Comite suas alterações (`git commit -m 'Adicione sua feature'`).
 4. Faça o push para a branch (`git push origin feature/SuaFeature`).
 5. Abra um pull request.
-
----
-
